@@ -71,5 +71,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 games.msn.com
 0.0.0.0 shockwave.com
 0.0.0.0 cartoonnetwork.com
-0.0.0.0 cartoonnetworkasia.com  
-0.0.0.0 poki.com/
+0.0.0.0 cartoonnetworkasia.com
